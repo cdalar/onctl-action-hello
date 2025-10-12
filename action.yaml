@@ -1,0 +1,8 @@
+name: hello
+description: Prints a hello message with a given name
+version: v1.0.0
+author: onctl team
+inputs:
+  name:
+    description: Name to greet
+    required: true
